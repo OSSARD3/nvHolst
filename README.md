@@ -6,8 +6,8 @@ nvHolst/nvHolst is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm me</h1>
-- 🌱 I’m currently learning **Vue.js, node.js**
+<h1 align="center">Hello, again</h1>
+- I’m currently learning **Vue.js, node.js**
 
 - ⚡ Fun fact **I like dark humor**
 
